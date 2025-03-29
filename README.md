@@ -11,7 +11,7 @@
 
 - 🏫 I’m a Computer Science student at Universitas Indonesia
   
-- 💻 I’m currently learning Rust, Go, Springboot, Typescript, and many more...
+- 💻 I’m currently learning Rust, Go, Typescript, and many more...
   
 - 👯 I specialize in Product, but occasionally do engineering work
   
