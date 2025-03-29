@@ -1,28 +1,51 @@
-## Hi there 👋
-
-<h2 align="center">
-  I'm Theodore Kevin H (TKH)
-</h2>
-
-<!-- Short Description -->
-<p align="center">
-  I'm interested in Product Management, Consulting, and Software Engineering
+<h1> Hello! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
 </p>
 
-<!-- Description -->
-<p align="center" style="padding-top:20px">
-  A motivated second-year undergraduate student pursuing a degree in Computer Science at the University of Indonesia. Passionate about exploring emerging technologies and using my technical expertise to disrupt the business field. Committed to continuously expanding my skill sets in <b>software engineering, product management, and consulting</b> through hands-on experiences and projects.
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=madushadhanushka&color=brightgreen" alt="watching_count" />
-</p>
-<p align="center">
-  <img src="https://myreadme.vercel.app/api/embed/TheoKevH?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+<div size='20px'> Hi, I am <strong><i>Theodore Kevin H (TKH)</i></strong>, but you can call me Kevin. I love technology and finding the balance between new tech & its business application. Currently, I am a Product Lead at RISTEK Fasilkom UI. Thank You for taking the time to view my GitHub Profile
+</div>
+
+<h2> About Me</h2>
+
+<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+- 🏫 I’m a Computer Science student at Universitas Indonesia
+  
+- 💻 I’m currently learning Rust, Go, Springboot, Typescript, and many more...
+  
+- 👯 I specialize in Product, but occasionally do engineering work
+  
+- 💬 Interests: Product Mangement, Software Engineering, Consulting
+  
+
+<h2> Tech Stack</h2>
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <a><img width="36px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg"></a>
+  <a><img width="36px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/reactjs.svg"></a>
+  <a><img width="36px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/nextjs.svg"></a>
+  <a><img width="36px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/javascript.svg"></a>
+  <a><img width="36px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/typescript.svg"></a>
+  <a><img width="36px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/css.svg"></a>
+  <a><img width="36px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/html.svg"></a>
+  <a><img width="36px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/tailwind.svg"></a>
+  <a><img width="36px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/django.svg"></a>
+  <a><img width="36px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg"></a>
+  <a><img width="36px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/java.svg"></a>
+  <a><img width="36px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/rust.svg"></a>
+  <a><img width="36px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/spring.svg"></a>
+</div>
+
+
+
+<h2>My Github Stats</h2>
+
+![TKH's github stats](https://github-readme-stats.vercel.app/api?username=TheoKevH&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=TheoKevH&theme=tokyonight" alt="mystreak"/>
+<p style="margin-left: 20px;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoKevH&theme=tokyonight&layout=compact" alt="Top Langs" />
 </p>
 
-<!-- Connect -->
-<h2 align="center">
-  Let's connect!
-</h2>
-<p align="center">
-<a href="www.linkedin.com/in/theodorekevinh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="TKH" height="30" width="40" /></a>
-</p>
+<h2> Connect with me</h2>
+<a href = 'https://www.linkedin.com/in/theodorekevinh'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://www.instagram.com/theokevh'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
+<a href = 'https://www.github.com/TheoKevH'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
