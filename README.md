@@ -15,7 +15,7 @@
   
 - 👯 I specialize in Product, but occasionally do engineering work
   
-- 💬 Interests: Product Mangement, DevOps, Software Engineering, Consulting
+- 💬 Interests: Product Management, DevOps, Software Engineering, Consulting
   
 
 <h2> Tech Stack</h2>
@@ -43,7 +43,6 @@
 
 ![TKH's github stats](https://github-readme-stats.vercel.app/api?username=TheoKevH&show_icons=true&theme=tokyonight)
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=TheoKevH&theme=tokyonight" alt="mystreak"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TheoKevH&theme=tokyonight&layout=compact" alt="Top Langs" />
 
 <h2> Connect with me</h2>
 <a href = 'https://www.linkedin.com/in/theodorekevinh'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
