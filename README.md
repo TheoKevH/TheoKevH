@@ -4,7 +4,7 @@
 
 <h3> About Me</h3>
 
-<img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<img width="32%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 - 🏫 I’m a Computer Science student at Universitas Indonesia
   
@@ -46,11 +46,6 @@
 <a>
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TheoKevH&show_icons=true&theme=algolia&hide=issues" />
 </a>
-
-<h2> Connect with me</h2>
-<a href = 'https://www.linkedin.com/in/theodorekevinh'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://www.instagram.com/theokevh'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/instagram.svg"/></a> 
-<a href = 'https://www.github.com/TheoKevH'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
 <h2>Watch out for snakes!</h2>
 <picture>
