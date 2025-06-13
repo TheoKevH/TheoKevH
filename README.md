@@ -44,7 +44,7 @@
 <h2>My Github Stats</h2>
 
 <a>
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=TheoKevH&show_icons=true&theme=algolia&hide=issues" />
+  <img height=160 align="center" src="https://github-readme-stats.vercel.app/api?username=TheoKevH&show_icons=true&theme=algolia&hide=issues" />
 </a>
 
 <h2>Watch out for snakes!</h2>
