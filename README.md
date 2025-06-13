@@ -1,11 +1,8 @@
-<h1> Hello! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<h1> Hello, I am TKH! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
-<div size='20px'> Hi, I am <strong><i>Theodore Kevin H (TKH)</i></strong>, but you can call me Kevin. I love technology and finding the balance between new tech & its business application. Currently, I am a Product Lead at RISTEK Fasilkom UI and an aspiring DevSecOps Engineer. Thank You for taking the time to view my GitHub Profile
-</div>
-
-<h2> About Me</h2>
+<h3> About Me</h3>
 
 <img width="40%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
@@ -13,7 +10,7 @@
   
 - 💻 I’m currently learning Rust, Go, Typescript, and many more...
   
-- 👯 I specialize in Product, but occasionally do engineering work
+- 👯 Currently a Product Lead at RISTEK Fasilkom UI
   
 - 💬 Interests: Product Management, DevOps, Software Engineering, Consulting
   
@@ -56,4 +53,8 @@
 <a href = 'https://www.github.com/TheoKevH'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a>
 
 <h2>Watch out for snakes!</h2>
-
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
